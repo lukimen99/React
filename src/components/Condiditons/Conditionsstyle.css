@@ -1,0 +1,11 @@
+.Wrapper {
+    min-height: 100px;
+    display: flex;
+    flex-direction: column;
+ }
+ .Small {
+    color: red;
+}
+.Loader {
+    margin: 10px auto;
+}
